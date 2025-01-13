@@ -9,7 +9,7 @@ from aiogram.filters import CommandStart
 from aiogram.client.default import DefaultBotProperties
 from aiogram import types
 
-TOKEN = '7858809144:AAEKo_A_03_-qeRa4b1l19sBoJNuFWSV3WY'
+TOKEN = ''
 default = DefaultBotProperties(parse_mode='HTML')
 
 dp = Dispatcher()
